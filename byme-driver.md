@@ -2,7 +2,7 @@ Privacy Policy
 ----------------
 
 ### Introduction  
-Our privacy policy explains what information ByMe Driver collects, how we use it, and the choices you have. ByMe Driver, built by Go Tech, is a free app designed for use by our partnered drivers. By using ByMe Driver, you agree to the collection and use of information as described in this policy. The personal information we collect allows us to provide and improve the service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Our privacy policy explains what information by me Driver collects, how we use it, and the choices you have. ByMe Driver, built by GO TECH TECHNOLOGY, is a free app designed for use by our partnered drivers. By using ByMe Driver, you agree to the collection and use of information as described in this policy. The personal information we collect allows us to provide and improve the service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, available on our website, unless otherwise defined here.
 
