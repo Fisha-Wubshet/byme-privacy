@@ -21,11 +21,13 @@ ByMe Driver does not directly use cookies, which are small data files used to id
 
 
 ### Location Information  
-The ByMe Driver app uses location permissions in the background. This is because the app is designed for our partnered drivers, and location data is essential for features like:
 
+The ByMe Driver app uses location permissions in the background. This is because the app is designed for partnered drivers, and real-time location data is essential for features like tracking delivery status and enabling efficient fleet management. We only access your location when you are using the app and in the background to ensure smooth deliveries and provide accurate updates. You can control and manage access to background location through the app settings.
+
+location data is essential for features like:
 * Tracking delivery status
 * Enabling fleet management
-We only access your location when you are using the app to track the delivery process and ensure smooth operations.
+
 
 
 ### Device Information  
